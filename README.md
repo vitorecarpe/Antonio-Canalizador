@@ -1,5 +1,5 @@
 # Antonio-Canalizador
-[LI4] Website for plumbing services developed using MVC architecture as a project for "Laboratórios de Informática IV" course in Computer Software Engineering at University of Minho.
+[LI4] Website for plumbing services developed using C# and MVC architecture as a project for "Laboratórios de Informática IV" course in Computer Software Engineering at University of Minho.
 
 # Contributors
 
@@ -8,3 +8,5 @@
 [Francisco Oliveira](https://github.com/Tibblue)
 
 [Raul Vilas Boas](https://github.com/MrBoas)
+
+Fábio Gonçalves
