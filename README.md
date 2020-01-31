@@ -1,9 +1,9 @@
-# Antonio-Canalizador
+# Antonio Canalizador
 [LI4] Website for plumbing services developed using C# and MVC architecture as a project for "Laboratórios de Informática IV" course in Computer Software Engineering at University of Minho.
 
 # Contributors
 
-[Vitor Peixoto](https://github.com/VitorPeixoto97)
+[Vitor Peixoto](https://github.com/vitorecarpe)
 
 [Francisco Oliveira](https://github.com/Tibblue)
 
